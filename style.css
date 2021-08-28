@@ -1,0 +1,146 @@
+header button {
+    float: right;
+    display: flex;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    margin-top: 28px;
+    height: 30%;
+    top: 0%;
+    left: auto;
+    width: 104px;
+    height: 27px;
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: 400;
+    padding: 5px;
+    padding-bottom: 5px;
+    
+    
+}
+
+section{
+    text-align: center;
+    margin: 45% 25%  ;
+}
+
+body{
+    background-color: #7f53ac;
+    background-color: #d4418e;
+    background-color: #310e68;
+    background-image: linear-gradient(316deg, #310e68 0%, #5f0f40 74%);    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 100%;
+    text-align: center;
+    max-width: 610px;
+    margin-bottom: 30px;
+    vertical-align: middle;
+    
+
+}
+
+.features{
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 30px;
+}
+
+.features img{
+    width: 20%;
+    left: 10%;
+    margin: 20px;
+    margin-bottom: 25px;
+    
+}
+
+.wrapper{
+    text-align: center;
+}
+
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 24px;
+}
+
+.wrapper img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+
+}
+
+p{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.column{
+    flex: 50%;
+    padding: 0 4px;
+    right: 30px;
+}
+
+.column img{
+    margin-top: 8px;
+    vertical-align: middle;
+    left: 30px;
+}
+
+.wrapper button{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px;
+    width: 15%;
+    height: 25%;
+    border-radius: 3px;
+    font-size: 18px;
+    
+
+}
+
+header img{
+    width: 15%;
+}
+
+header{
+    position: sticky;
+    
+}
+
+.navbar{
+    height: 80px;
+    padding: 20px;
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+li{
+    float:right;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    display: inline;
+    
+}
